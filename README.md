@@ -1,4 +1,4 @@
-#JULIAPHORO
+# JULIAPHORO
 
 Juliaphoro es un semáforo montado con una placa con FPGA libre y Icestudio.
 
