@@ -2,6 +2,8 @@
 
 Juliaphoro es un semáforo montado con una placa con FPGA libre y Icestudio.
 
+<img alt="Licencia Creative Commons" style="border-width:0" src="https://github.com/kikeelectronico/julianphoro/raw/master/pictures/IMG_20181110_112343_000.jpg" />
+
 Este repositorio contiene los archivos de Icestudio para implementar un semáforo usando la placa FPGA libre Alhambra.
 
 Los archivos de impresión 3D pertenecen a Innovart Studio.
