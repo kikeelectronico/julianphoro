@@ -36,7 +36,7 @@ Los tiempos para cada LED se configuran usando las constantes *T_rojo*, *T_amari
 
 <img alt="Licencia Creative Commons" style="border-width:0" src="https://github.com/kikeelectronico/julianphoro/raw/master/img/semaforo_icestudio.png" />
 
-El funcionamiento es sencillo. Al presionar *Comenzar* el contador del color rojo comienza a contar y enciende su LED hasta alcanzar el tiempo *T_rojo*. Cuando ha pasado el tiempo del rojo, se activa la salida *Fin* y está activa el contador del amarillo. Este contador enciende el LED amarillo y comienza a contar de la misma manera que el rojo.
+El funcionamiento es sencillo. Al presionar *Comenzar* el contador del color rojo comienza a contar y enciende su LED hasta alcanzar el tiempo *T_rojo*. Cuando ha pasado el tiempo del rojo, se activa la salida *Fin* y esta activa el contador del amarillo. Este contador enciende el LED amarillo y comienza a contar de la misma manera que el rojo.
 
 El contador verde se activa cuando termina la cuenta del amarillo. Cuando ha pasado el tiempo del verde, este provoca que el rojo (el primero) vuelva a comenzar.
 
